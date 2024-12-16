@@ -12,7 +12,7 @@ import numpy as np
 
 # Parameters
 arrival_rate = 90.0
-service_rate = 100.0
+service_rate = 110.0
 num_requests = 1_000_000
 
 # Results
